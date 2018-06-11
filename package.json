@@ -1,0 +1,21 @@
+{
+    "name": "wynzk1",
+    "version": "1.0.0",
+    "description": "zk1",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "dev",
+        "build": "build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wynsum/wynzk1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wynsum/wynzk1/issues"
+    },
+    "homepage": "https://github.com/wynsum/wynzk1#readme"
+}
